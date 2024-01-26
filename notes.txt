@@ -1,0 +1,8 @@
+
+# cusignal==23.4
+# conda install -c conda-forge cusignal=23.4
+
+# conda install cuda cudnn -c nvidia
+ 
+#https://gist.github.com/nguyenhoan1988/ed92d58054b985a1b45a521fcf8fa781
+#https://stackoverflow.com/questions/60450364/how-to-run-dlib-face-recognition-with-gpu
